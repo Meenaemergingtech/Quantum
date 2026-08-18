@@ -1,2 +1,2 @@
 # Quantum
-Quantum Teleportaion/Algorithms
+Quantum Teleportation/Algorithms
