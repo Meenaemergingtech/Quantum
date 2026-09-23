@@ -1,6 +1,10 @@
-# Quantum Word Transmission POC
+# Quantum
+
+## Quantum Word Transmission POC
 
 This repository contains a small proof-of-concept (POC) for quantum word transmission, gate demonstrations, and noisy teleportation experiments implemented in Q#.
+
+It also includes a lightweight collection of gate examples and teleportation experiments for learning and experimentation.
 
 ## Repository contents
 
@@ -58,3 +62,4 @@ dotnet run
 ## License
 
 - Copyright (c) Your Name. All rights reserved.
+
